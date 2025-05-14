@@ -1,4 +1,4 @@
-# Comment on the sentiment analysis system(pilot study)
+# Comment sentiment analysis system(pilot study)
 
 This is a pilot study product review sentiment analysis and evaluation system based on pre-trained models. Combining sentiment analysis and topic acquisition tools, it is possible to obtain users' emotional tendencies based on comment data and put forward suggestions for product improvement
 
